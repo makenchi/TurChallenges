@@ -1,0 +1,16 @@
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\bin\Debug\net5.0\turChallenges.exe
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\bin\Debug\net5.0\turChallenges.deps.json
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\bin\Debug\net5.0\turChallenges.runtimeconfig.json
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\bin\Debug\net5.0\turChallenges.runtimeconfig.dev.json
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\bin\Debug\net5.0\turChallenges.dll
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\bin\Debug\net5.0\ref\turChallenges.dll
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\bin\Debug\net5.0\turChallenges.pdb
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\obj\Debug\net5.0\turChallenges.csproj.AssemblyReference.cache
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\obj\Debug\net5.0\turChallenges.GeneratedMSBuildEditorConfig.editorconfig
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\obj\Debug\net5.0\turChallenges.AssemblyInfoInputs.cache
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\obj\Debug\net5.0\turChallenges.AssemblyInfo.cs
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\obj\Debug\net5.0\turChallenges.csproj.CoreCompileInputs.cache
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\obj\Debug\net5.0\turChallenges.dll
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\obj\Debug\net5.0\ref\turChallenges.dll
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\obj\Debug\net5.0\turChallenges.pdb
+F:\Makenchi's Dungeon\Projetos\Visual Studio\turChallenges\turChallenges\obj\Debug\net5.0\turChallenges.genruntimeconfig.cache
